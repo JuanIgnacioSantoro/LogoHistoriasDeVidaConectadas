@@ -1,11 +1,68 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+<style>
+    .Foto {
+        height: 1080px;
+        width: 1920px;
+        background-image: url("/Foto%20para%20portada%20-%20Ejemplo%2016-9.jpg");
+    }
+
+    .Gradiente {
+        background: linear-gradient(90deg, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 1) 100%);
+        height: 1080px;
+        width: 1920px;
+    }
+
+    .Texto {
+        height: 800px;
+        width: 1920px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 90pt;
+        color: white;
+        text-align: center;
+        padding-left: 500px;
+    }
+
+    span {
+        color: rgb(255, 200, 0);
+    }
+
+    h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 90pt;
+        color: white;
+        text-align: center;
+        padding-left: 500px;
+        margin-top: -20px;
+    }
+
+    img {
+        height: 300px;
+        padding-left: 1620px;
+        margin-top: -20px;
+    }
+</style>
 <body>
-    
+    <div class="Foto">
+        <div class="Gradiente">
+            <div class="Texto">
+                <p><span>DE LA RADIO ONLINE A TRABAJAR CON LOS</span> GRANDES DEL PERIODISMO</p>
+                <h1>Juan Bindi</h1>
+            </div>
+            <img src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/LogoHDVC%20Temporada%202%20Actual.jpg?raw=true" alt="">
+        </div>
+    </div>
 </body>
+
 </html>
