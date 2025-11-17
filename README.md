@@ -20,5 +20,6 @@ Logo Historias De Vida Conectadas en vectores y animación 3D.
 <image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/LogoHDVC%20v0.51.png?raw=true" alt="1º edición" width="100%">
 <image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/LogoHDVC%20v0.52.png?raw=true" alt="2º edición" width="100%">
 <image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/LogoHDVC%20v0.53.png?raw=true" alt="3º edición" width="100%">
+<image src="https://github.com/JuanIgnacioSantoro/LogoHistoriasDeVidaConectadas/blob/main/LogoHDVC%20v0.6.png?raw=true" alt="6º render" width="100%">
 
 [Shield.io](https://shields.io/)
